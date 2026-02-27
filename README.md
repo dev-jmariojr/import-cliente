@@ -3,7 +3,7 @@ Aplicação para importação de arquivo texto referente ao cadastro de clientes
 
 ```Teste para uma vaga de programador delphi em 2006```
 
-Estava repassando a carreira e encontrei um teste que fiz para uma vaga de programador delphi em 2006. 
+Estava repassando a carreira e me lembrei de um teste que fiz para uma vaga de programador delphi em 2006. 
 O teste consistia em duas etapas:
 - Fazer a importação do arquivo para uma base SQL Server.
 - Fazer uma tela de cadastro, com as operações de inserção, consulta, atualização e exclusão.

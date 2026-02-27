@@ -23,7 +23,7 @@ object fDesafio: TfDesafio
     Margins.Left = 0
     Margins.Top = 0
     Margins.Right = 0
-    ActivePage = tabConsulta
+    ActivePage = tabImportacao
     TabOrder = 0
     object tabImportacao: TTabSheet
       Caption = 'Importa'#231#227'o'
@@ -224,7 +224,7 @@ object fDesafio: TfDesafio
       end
     end
     object tabConsulta: TTabSheet
-      Caption = 'Consulta'
+      Caption = 'Pesquisa'
       ImageIndex = 2
       OnShow = tabConsultaShow
       object btnSearch: TButton

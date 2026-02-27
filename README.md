@@ -1,5 +1,5 @@
 # App Importação de Arquivo
-Aplicação para importação de arquivo texto referente ao cadastro de clientes e operações de cadastro (inserção, consulta, atualização e exclusão).
+Aplicação para importação de arquivo texto, referente a dados de clientes, e operações de cadastro (crud).
 
 ```Teste para uma vaga de programador delphi em 2006```
 

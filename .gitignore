@@ -1,0 +1,6 @@
+### Embarcadeiro Delphi ###
+Win32/
+Win64/
+*.local
+*.identcache
+*.res
